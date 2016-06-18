@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cody_crystals)(type KiCad)(uri KIPRJMOD\Cody_Crystals_SMD)(options "")(descr ""))
+)

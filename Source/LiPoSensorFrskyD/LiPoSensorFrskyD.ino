@@ -63,7 +63,8 @@ void loop()
   FrskyD.sendCellVolt (3, w4);
   FrskyD.sendCellVolt (4, w5);
   FrskyD.sendCellVolt (5, w6);
-  
+  FrskyD.sendData  (FRSKY_D_VFAS, vfas * 10);
+
   delay (200);  // wait a bit to flush buffer
   
   digitalWrite(9, HIGH);

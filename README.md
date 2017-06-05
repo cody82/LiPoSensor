@@ -7,6 +7,8 @@ This repository includes the Arduino source code and the KiCad PCB.
 You need Arduino >= 1.6.
 
 # Board
+*WARNING: DO NOT POWER THE BOARD FROM BOTH LIPO AND RECEIVER AS IT MIGHT CATCH FIRE*
+
 You need KiCad >= 4.0 to edit the PCB.
 
 You can order the PCB from OSH Park:

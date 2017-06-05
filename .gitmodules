@@ -1,3 +1,6 @@
 [submodule "Source/libraries/FrSkySportTelemetry"]
 	path = Source/libraries/FrSkySportTelemetry
 	url = https://github.com/cody82/FrSkySportTelemetry.git
+[submodule "Source/libraries/arduino-frskyd"]
+	path = Source/libraries/arduino-frskyd
+	url = https://github.com/jcheger/arduino-frskyd.git
